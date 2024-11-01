@@ -68,7 +68,7 @@
 4. Start the frontend React app:
     ```bash
     cd ../client
-    npm start -y
+    npm start
     ```
 
 5. Open your browser and go to `http://localhost:3001` to view the app.
