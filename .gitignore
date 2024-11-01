@@ -87,6 +87,4 @@ Thumbs.db
 
 
 # Specific to this project
-
-/server/data/todos.json
-client
+server/data/todos.json
