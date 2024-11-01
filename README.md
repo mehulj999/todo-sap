@@ -5,6 +5,11 @@
 
 ---
 
+## Screenshot
+
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/e1d50660-56e1-480e-be03-994ee5f8bdae">
+
+
 ## Table of Contents
 - [Versions and Dependencies](#version-and-dependencies) <!-- New section for versions -->
 - [Features](#features)
