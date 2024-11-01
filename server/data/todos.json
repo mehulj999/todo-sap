@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1730451430460,
@@ -13,6 +12,11 @@
   {
     "id": 1730451589545,
     "text": "TODO 3",
+    "completed": false
+  },
+  {
+    "id": 1730454468549,
+    "text": "TODO 1",
     "completed": false
   }
 ]

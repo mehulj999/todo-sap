@@ -6,6 +6,7 @@
 ---
 
 ## Table of Contents
+- [Versions and Dependencies](#version-and-dependencies) <!-- New section for versions -->
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
@@ -15,6 +16,23 @@
 - [Future Improvements](#future-improvements)
 
 ---
+
+## Versions and Dependencies
+
+- **Node.js**: v16.13.0 
+- **npm**: v8.1.0 
+
+### Frontend Dependencies
+
+- **React**: v18.3.1
+- **React-DOM**: v18.3.1
+- **axios**: v1.7.7
+
+### Backend Dependencies
+
+- **Express**: v4.21.1
+- **body-parser**: v1.20.3
+- **cors**: v2.8.5
 
 ## Features
 
