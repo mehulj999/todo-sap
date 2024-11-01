@@ -1,6 +1,6 @@
 # Todo App
 
-**Author**: Mehul Dinesh Jain  
+**Author**: Mehul Dinesh Jain, MS Software Engineering, UE Innovation Hub, Potsdam  
 **Description**: This is a basic Todo application that allows users to create, read, update, and delete (CRUD) tasks. The frontend is built using ReactJS, while the backend API is powered by ExpressJS. The app showcases essential CRUD functionality and RESTful API integration.
 
 ---
@@ -23,6 +23,7 @@
 - **Update** a task’s status (complete/incomplete) and text
 - **Delete** a task from the list
 - Simple, user-friendly interface with responsive design
+- Sorts the tasks based on oldest first and the completed tasks are pushed below
 
 ## Technologies Used
 

@@ -1,1 +1,21 @@
+<<<<<<< Updated upstream
 []
+=======
+[
+  {
+    "id": 1730451430460,
+    "text": "TODO 1",
+    "completed": false
+  },
+  {
+    "id": 1730451449752,
+    "text": "TODO 2",
+    "completed": false
+  },
+  {
+    "id": 1730451589545,
+    "text": "TODO 3",
+    "completed": false
+  }
+]
+>>>>>>> Stashed changes
