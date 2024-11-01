@@ -84,3 +84,8 @@
 # System files
 .DS_Store
 Thumbs.db
+
+
+# Specific to this project
+
+/server/data
