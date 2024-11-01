@@ -1,0 +1,86 @@
+# React Client (Frontend)
+
+# Dependencies
+/client/node_modules
+/client/.pnp
+/client.pnp.js
+
+# Production build
+/client/build
+
+# Environment variables
+/client/.env
+/client/.env.local
+/client/.env.development.local
+/client/.env.test.local
+/client/.env.production.local
+
+# Log files
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/pnpm-debug.log*
+
+# ESLint and Stylelint cache
+/client/.eslintcache
+/client/.stylelintcache
+
+# Testing and coverage
+/client/coverage
+/client/junit.xml
+/client/karma-coverage/
+
+# Parcel cache
+/client/.cache
+
+# Storybook static build
+/client/storybook-static
+
+# Express Server (Backend)
+
+# Dependencies
+/server/node_modules
+
+# Build files
+/server/dist
+/server/build
+
+# Environment variables
+/server/.env
+/server/.env.local
+/server/.env.development
+/server/.env.test
+/server/.env.production
+
+# Log files
+/server/npm-debug.log*
+/server/yarn-debug.log*
+/server/yarn-error.log*
+/server/pnpm-debug.log*
+/server/logs
+
+# Database files (if any)
+*.sqlite
+*.sqlite3
+/server/*.sqlite
+/server/*.sqlite3
+
+# Temporary files and caches
+/server/.cache
+/server/.temp
+
+# General project-wide ignores
+
+# Editor and IDE files
+/.vscode
+.idea/
+.DS_Store
+
+# Logs
+*.log
+*.lock
+*.gz
+
+# System files
+.DS_Store
+Thumbs.db
