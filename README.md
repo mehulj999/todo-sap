@@ -191,6 +191,6 @@ todo-app/
 
 ## Conclusion
 
-This Todo App demonstrates fundamental skills in React and Express, including CRUD functionality and API integration. Thank you for reviewing my assignment!
+This Todo App demonstrates fundamental skills in React and Express, including CRUD functionality and API integration. Thank you for reviewing my mini project!
 
 ---
